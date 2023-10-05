@@ -1,0 +1,18 @@
+# zombies are died at the round they are created.
+quiver-capacity: 20
+random-seed: 12345
+max-rand-distance: 20
+max-rand-speed: 30
+max-rand-health: 1
+---
+round: 1
+random-zombies: 10
+named-zombies: 3
+MarkSchlissel distance: 150 speed: 300 health: 1
+MarySueColeman distance: 2 speed: 3 health: 1
+LeeBollinger distance: 100 speed: 1 health: 1
+---
+round: 3
+random-zombies: 19
+named-zombies: 1
+JamesDuderstadt distance: 20 speed: 10 health: 1
